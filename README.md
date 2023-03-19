@@ -1,6 +1,6 @@
 This is an Ethereum dApp Blockchain project,through this one we can connect our meta mask wallet and can send waves or some messages to each other,and the owner of the wallet can easily mined that and get that wave from the client or the other wallet user.
 
-![Screenshot ukd (461)](https://user-images.githubusercontent.com/111123125/226160494-dabc99ab-1842-47bb-9638-39bf09863401.png)
+![Screenshot ukd22 (461)](https://user-images.githubusercontent.com/111123125/226160651-e8253e7d-624a-4d06-bccf-dc06647a512f.png)
 
 # Sample Hardhat Project
 
